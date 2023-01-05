@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://debapriyo007.github.io/mycv.github.io/](https://debapriyo007.github.io/mycv.github.io/)
 
-- 💬 Ask me about **C-Language,Data Structure,HTML,CSS**
+- 💬 Ask me about **C-Language,Data Structure,HTML,CSS,Java**
 
 - 📫 How to reach me **debapriyo00@gmail.com**
 
