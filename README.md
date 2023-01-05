@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **debapriyo00@gmail.com**
 
-- ⚡ Fun fact **Some time i think about actually Multiversus is exist or not?**
+- ⚡ Fun fact **i wanna meet my avatar in Multiversus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
