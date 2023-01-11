@@ -1,6 +1,6 @@
 
 
-### <h1><samp>&gt; Hi there, I'm <a href="#" target="_blank">Debapriyo Das</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25"> </samp></h1>
+### <h1><samp>&gt; Hi there, I'm <a href="https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl" target="_blank">Debapriyo Das</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25"> </samp></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
@@ -49,6 +49,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debapriyo007&show_icons=true&locale=en&layout=compact" alt="debapriyo007" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=debapriyo007&show_icons=true&locale=en" alt="debapriyo007" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debapriyo007&show_icons=true&locale=en&layout=compact" alt="debapriyo007" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=debapriyo007&show_icons=true&locale=en" alt="debapriyo007" />
 </p>
