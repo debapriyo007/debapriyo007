@@ -21,11 +21,11 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 
 **💬Talking about Personal Stuffs:**
 
-- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on **ERROR 404**;
-- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Web-Development and Java.**;
-- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **C-Language, Java, Data Structure and Algorithm, HTML5, CSS**, I am happy to help;
-- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;All of my projects are available at [debapriyo007](https://debapriyo007.github.io/mycv.github.io/);
-- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: debapriyo00@gmail.com;
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on **ERROR 404**.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Web-Development and Java.**.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **C-Language, Java, Data Structure and Algorithm, HTML5, CSS**, I am happy to help.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;All of my projects are available at [debapriyo007](https://debapriyo007.github.io/mycv.github.io/).
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:  debapriyo00@gmail.com.
 - <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://debapriyo007.github.io/mycv.github.io/).
 
 </br>
@@ -49,6 +49,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debapriyo007&show_icons=true&locale=en&layout=compact" alt="debapriyo007" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debapriyo007&show_icons=true&locale=en" alt="debapriyo007" />
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debapriyo007&show_icons=true&locale=en&layout=compact" alt="debapriyo007" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=debapriyo007&show_icons=true&locale=en" alt="debapriyo007" />
 </p>
