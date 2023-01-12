@@ -46,16 +46,5 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
-  📈 **My GitHub Stats:**
-<br>
+<!--   📈 **My GitHub Stats:** -->
 
-<a href="https://github.com/debapriyo007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debapriyo007&hide=html," />
-</a>
-
-<a href="https://github.com/debapriyo007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=debapriyo007&show_icons=true&line_height=27&count_private=true&title_" />
-</a>
-
-<br>
-<br>
