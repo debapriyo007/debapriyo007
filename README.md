@@ -1,6 +1,6 @@
 
 
-## <h1><samp>&gt; Hi there,<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="38">  I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a></samp></h1>
+## <h1><samp>&gt; Hi there,<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30">  I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a></samp></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
