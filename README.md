@@ -1,10 +1,10 @@
 
 
-### <h1><samp>&gt; Hi there, I'm <a href="https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl" target="_blank">Debapriyo Das</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25"> </samp></h1>
+## <h1><samp>&gt; Hi there, I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25"> </samp></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bamapada.das.56)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debapriyo_009)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debapriyo007)
 [![GitHub Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
