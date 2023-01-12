@@ -54,7 +54,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debapriyo007&theme=nord_dark)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=nord_dark) -->
-<div align="center">
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debapriyo007&layout=compact&theme=dark" alt="debapriyo"/></p>
-  </div>
+
 
