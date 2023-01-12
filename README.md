@@ -2,11 +2,12 @@
 
 ### <h1><samp>&gt; Hi there, I'm <a href="https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl" target="_blank">Debapriyo Das</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25"> </samp></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/debapriyo_009)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/https://www.facebook.com/bamapada.das.56?mibextid=zbwkwl)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debapriyo_009)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debapriyo007)
+[![GitHub Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=debapriyo007&label=Profile%20views&color=0e75b6&style=flat" alt="debapriyo007" />
 
@@ -49,13 +50,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
  &#x1f4c8; **GitHub Stats**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debapriyo007&theme=nord_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debapriyo007&theme=nord_dark)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=nord_dark) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debapriyo007&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debapriyo007&)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debapriyo007&layout=compact&theme=dark" alt="debapriyo"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debapriyo007&layout=compact&theme=light" alt="debapriyo"/></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=vue)
 
