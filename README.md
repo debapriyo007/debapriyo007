@@ -1,17 +1,12 @@
 
+# <h1><samp>&gt; Hi there,<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30">  I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a></samp></h1>
 
-## <h1><samp>&gt; Hi there,<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30">  I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a></samp></h1>
+## Glad to see you here! &nbsp; 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=debapriyo007&label=Profile%20views&color=red&style=for-the-badge"
+        alt="debapriyo007" width="200"/> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debapriyo-das-864b93259)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://debapriyo007.github.io/mycv.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bamapada.das.56)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debapriyo_009)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debapriyo007)
-[![GitHub Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)
-
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=debapriyo007&label=Profile%20views&color=0e75b6&style=flat" alt="debapriyo007" />
-
-📌I am a second year student study B.Tech (CSE) at **``Bengal Insititute Of Technology``**.
+📌I am a second year student study B.Tech (CSE) at **Bengal Insititute Of Technology**.
 I love to do coding ,writing and Travelling.
 As a student,I love to explore new idea's 💡.I am very interesting about new technology like Artificial Intelligence and Machine Learning...
 
@@ -31,33 +26,43 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 
 </br>
 
-**🛠️Languages and Tools:**
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+        
+## 🐍 Watch the snake eat my contributions
+![snake gif](https://github.com/debapriyo007/debapriyo007/blob/output/github-contribution-grid-snake.svg)
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdelatif.laghjaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellatif_laghjaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debapriyo007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15170378/abdelatif-laghjaj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdellatif_kira)
+
+## 💻 Tech Stack:
 
 
 
-📊 **This Week I Spent My Time On:**
+<b><p> Programming Languages: </p></b>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-```text
-Java         1 hr 44 mins    ████████████████████████░   96.62 %
-C Language   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
+
+<b><p> Tools: </p></b>
 
 
- &#x1f4c8; **GitHub Stats**
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debapriyo007&)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debapriyo007&)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&) -->
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debapriyo007&layout=compact&theme=light" alt="debapriyo"/></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=vue)
 
+#
