@@ -1,10 +1,8 @@
 
 # <h1><samp>&gt; Hi there,<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30">  I'm <a href="https://www.facebook.com/bamapada.das.56" target="_blank">Debapriyo Das</a></samp></h1>
 
-## Glad to see you here! &nbsp; 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=debapriyo007&label=Profile%20views&color=red&style=for-the-badge"
-        alt="debapriyo007" width="200"/> </p>
+## Glad to see you here! &nbsp;
+<p align="left"><img src="https://komarev.com/ghpvc/?username=debapriyo007&label=Profile%20views&color=red&style=for-the-badge" alt="debapriyo007" width="140" /> </p>
 
 📌I am a second year student study B.Tech (CSE) at **Bengal Insititute Of Technology**.
 I love to do coding ,writing and Travelling.
