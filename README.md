@@ -26,8 +26,7 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 
 
         
-## 🐍 Watch the snake eat my contributions
-![snake gif](https://github.com/debapriyo007/debapriyo007/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials:
 
@@ -55,11 +54,17 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 🐍 Watch the snake eat my contributions
+![snake gif](https://github.com/debapriyo007/debapriyo007/blob/output/github-contribution-grid-snake.gif)
+
 ## 📊 GitHub Stats:
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debapriyo007&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=vue)
 <div align="center">
 
-### Show some 💜 by starring some of the [repositories](https://github.com/debapriyo007?tab=repositories)!
+## Thank You❤️!
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
 
@@ -67,9 +72,5 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=vue)
 
 #
