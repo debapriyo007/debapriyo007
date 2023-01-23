@@ -58,7 +58,7 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 ![snake gif](https://github.com/debapriyo007/debapriyo007/blob/output/github-contribution-grid-snake.gif)
 
 ## 📊 GitHub Stats:
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debapriyo007&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debapriyo007&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debapriyo007&)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debapriyo007&)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debapriyo007&theme=vue)
