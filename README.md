@@ -12,15 +12,14 @@ As a student,I love to explore new idea's 💡.I am very interesting about new t
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
-
 **💬Talking about Personal Stuffs:**
 
-⚡I’m currently working on **ERROR 404**.<br>
-⚡I’m currently learning **Web-Development and Java**.<br>
-⚡Ask me about **C-Language,Java,Data Structure and Algorithm,HTML5,CSS,**.<br>
-⚡All of my projects are available at [Click Here](https://github.com/debapriyo007)<br>
-⚡How to reach me:  debapriyo00@gmail.com.<br>
-⚡ [Resume](#).
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on **ERROR 404**.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Web-Development and Java**.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **C-Language,Java,Data Structure and Algorithm,HTML5,CSS,** I am happy to help.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;All of my projects are available at [Click Here](https://github.com/debapriyo007)
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:  debapriyo00@gmail.com.
+- <img src="https://github.com/debapriyo007/debapriyo007/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](#).
 
 </br>
 
