@@ -8,7 +8,7 @@
 debu@21: ~/readme $ fastfetch
 ```
 
-<img src="/Users/debapriyodas/Desktop/GitHub/debapriyo007/assests/hokage.gif" align="left" alt="Hokage" width="30%">
+<img src="https://raw.githubusercontent.com/debapriyo007/debapriyo007/refs/heads/main/assests/hokage.gif" align="left" alt="Hokage" width="30%">
 
 ```csharp
 ------------------------------------------------------------
