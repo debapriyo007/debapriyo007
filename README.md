@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://count.getloli.com/@isdebu999?name=isdebu999&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="isdebu999">
+        <img src="https://count.getloli.com/@debapriyo007?name=debapriyo007&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="debapriyo007`">
     </p>
 </div>
 
@@ -8,9 +8,12 @@
 debu@21: ~/readme $ fastfetch
 ```
 
-<img src="https://raw.githubusercontent.com/debapriyo007/debapriyo007/refs/heads/main/assests/hokage.gif" align="left" alt="Hokage" width="30%">
+<div style="display:flex; align-items:flex-start; gap:20px;">
 
-```csharp
+<img src="https://raw.githubusercontent.com/debapriyo007/debapriyo007/refs/heads/main/assests/hokage.gif" alt="Hokage" width="250" height="320"/>
+
+<pre>
+<code>
 ------------------------------------------------------------
 username: debu_21
 whoami: cs @ bit
@@ -23,9 +26,13 @@ locations: wb, india
 hobbies: programming, gaming, anime/manga, music
 song: Kendrick Lamar - HUMBLE
 favorite.game: cricket
+favorite.quote: Give up on your dream and die. - "Levi Ackerman"
 favorite.anime: attack on titan
 ------------------------------------------------------------
-```
+</code>
+</pre>
+
+</div>
 
 <h3 align="center"> Languages & Tools</h2>
 
