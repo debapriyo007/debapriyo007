@@ -42,7 +42,7 @@ favorite.anime: attack on titan
 [![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://https://debu21.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/)
 [![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/debapriyo007)
-[![Gmail](https://img.shields.io/badge/debapriyo007@gmail.com-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debapriyo007@gmail.com)
+[![Gmail](https://img.shields.io/badge/debapriyo00@gmail.com-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debapriyo00@gmail.com)
 </div>
 
 <div align="center">
