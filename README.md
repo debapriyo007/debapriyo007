@@ -11,7 +11,7 @@ debu@21: ~/readme $ fastfetch
 <table>
   <tr>
     <td valign="top" width="260">
-      <img src="https://raw.githubusercontent.com/debapriyo007/debapriyo007/refs/heads/main/assests/hokage.gif" alt="Hokage" width="250" height="320"/>
+      <img src="https://raw.githubusercontent.com/debapriyo007/debapriyo007/refs/heads/main/assests/hokage.gif" alt="Hokage" width="250" height="350"/>
     </td>
     <td valign="top">
 
