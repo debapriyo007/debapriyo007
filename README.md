@@ -16,23 +16,25 @@ debu@21: ~/readme $ fastfetch
     <td valign="top">
 
 ```
-------------------------------------------------------------
+--------------------------------------------------------
 
 username: debu_21
-whoami:   cs @ bit
-pronouns: he/him
-os:       mac  linux
+whoami: cs @ bit
+pronouns: he/him/debu
+os: mac linux
 languages: java, javascript, sql
 learning: spring boot, react, python
-reading:
+reading: overflow and docs
 locations: wb, india
-hobbies:  programming, gaming, anime/manga, music
-song:     Kendrick Lamar - HUMBLE
-fav.game: cricket
-fav.anime: attack on titan
+hobbies: programming, gaming, anime/manga, music
+song: Kendrick Lamar - HUMBLE
+favorite.game: cricket
+favorite.anime: attack on titan
+anime.character: Levi Ackerman
+fun.fact: I debug better at night
 quote: "Give up on your dreams and die." – Levi Ackerman
 
-------------------------------------------------------------
+--------------------------------------------------------
 ```
 
   </td>
