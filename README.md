@@ -17,6 +17,7 @@ debu@21: ~/readme $ fastfetch
 
 ```
 ------------------------------------------------------------
+
 username: debu_21
 whoami:   cs @ bit
 pronouns: he/him
@@ -28,8 +29,9 @@ locations: wb, india
 hobbies:  programming, gaming, anime/manga, music
 song:     Kendrick Lamar - HUMBLE
 fav.game: cricket
-fav.quote: "Give up on your dream and die." - Levi Ackerman
 fav.anime: attack on titan
+quote: "Give up on your dreams and die." – Levi Ackerman
+
 ------------------------------------------------------------
 ```
 
