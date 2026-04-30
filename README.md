@@ -15,7 +15,7 @@ debu@21: ~/readme $ fastfetch
     </td>
     <td valign="top">
 
-```
+```csharp
 --------------------------------------------------------
 
 username: debu_21
@@ -24,12 +24,12 @@ pronouns: he/him/debu
 os: mac linux
 languages: java, javascript, sql
 learning: spring boot, react, python
-reading: overflow and docs
+reading: overflow & docs
 locations: wb, india
 hobbies: programming, gaming, anime/manga, music
 song: Kendrick Lamar - HUMBLE
 favorite.game: cricket
-favorite.anime: attack on titan
+favorite.anime: aot
 anime.character: Levi Ackerman
 fun.fact: I debug better at night
 quote: "Give up on your dreams and die." – Levi Ackerman
