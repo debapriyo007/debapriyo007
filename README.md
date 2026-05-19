@@ -45,7 +45,7 @@ quote: "Give up on your dreams and die." – Levi Ackerman
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,tailwindcss,bootstrap,vue,nodejs,npm,mysql,mongodb,github,git,gitlab,maven,hibernate,spring,redis,docker,kubernetes,jenkins,kafka,idea,eclipse,vscode,postman,linux,notion,figma,stackoverflow,discord" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,tailwindcss,bootstrap,nodejs,npm,mysql,mongodb,github,git,gitlab,maven,hibernate,spring,redis,docker,kubernetes,jenkins,kafka,idea,eclipse,vscode,postman,linux,notion,figma,stackoverflow,discord" />
   </a>
 </p>
 
